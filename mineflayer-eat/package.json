@@ -1,0 +1,14 @@
+{
+  "name": "mineflayer-eat",
+  "version": "0.1.0",
+  "description": "Auto eat for mineflayer",
+  "main": "index.js",
+  "author": "FourTerms2",
+  "license": "MIT",
+  "keywords": [
+    "mineflayer",
+    "eat",
+    "auto-eat",
+    "minecraft-bot"
+  ]
+}

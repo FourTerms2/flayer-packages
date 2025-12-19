@@ -1,0 +1,9 @@
+{
+  "name": "mineflayer-bot-death",
+  "version": "0.0.5",
+  "description": "A Mineflayer plugin to track bot deaths and log details",
+  "main": "index.js",
+  "keywords": ["mineflayer", "minecraft", "bot", "death"],
+  "author": "FourTerms2",
+  "license": "MIT"
+}
