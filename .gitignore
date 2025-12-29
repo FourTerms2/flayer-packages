@@ -62,5 +62,5 @@ jspm_packages/
 ehthumbs.db
 Thumbs.db
 
-# gitugbire
+# Ignore .gitignore itself
 .gitignore
